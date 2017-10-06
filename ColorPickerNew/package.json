@@ -1,0 +1,15 @@
+{
+  "name": "colorpicker",
+  "version": "1.0.0",
+  "description": "Simple component used for choosing color",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin Tomas (m.tomas)",
+  "license": "ISC",
+  "dependencies": {
+    "bobril": "^7.6.2",
+    "bobril-m": "^0.11.0"
+  }
+}
