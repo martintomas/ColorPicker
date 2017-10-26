@@ -1,3 +1,4 @@
+.gitignore~
 ColorPicker/node_modules/
 ColorPickerOld/node_modules/
 ColorPickerNew/node_modules/
